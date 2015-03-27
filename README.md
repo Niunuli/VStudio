@@ -1,2 +1,2 @@
 # Vstudio
-Harjoituksia
+Harjoituksia; Visual Studio, VB.Net...
