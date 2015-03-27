@@ -15,7 +15,7 @@
             Button1.Enabled = False
         End If
     End Sub
-    'jos checkbox2 checkattu nappulasta avautuu lomake 2
+    'jos checkbox2 checkattu, nappulaa painamalla avautuu lomake 2
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Form2.Show()
     End Sub
